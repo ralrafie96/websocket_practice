@@ -1,0 +1,23 @@
+{
+  "name": "websocket_practice",
+  "version": "1.0.0",
+  "description": "Practice with websockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralrafie96/websocket_practice.git"
+  },
+  "author": "Rami Al-Rafie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralrafie96/websocket_practice/issues"
+  },
+  "homepage": "https://github.com/ralrafie96/websocket_practice#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.16.0"
+  }
+}
